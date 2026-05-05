@@ -98,11 +98,9 @@ a:hover{
         font-size: 12px;
         max-width: 100%;
         width: 100%;
-        { }
+        
     
-        .tabla{
-
-    }
+        
   
         
     }
@@ -169,7 +167,7 @@ th{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
+    gap: 1rem;
 
 }
 .izquierda img{
@@ -185,3 +183,6 @@ th{
 
 }
 
+.izquierda span{
+    font-size: 2.5rem;
+}
